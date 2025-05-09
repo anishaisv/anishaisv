@@ -11,7 +11,6 @@ I'm Anisha, a passionate **Data Analyst** with research experience in developing
 - **Languages**: SQL, Python  
 - **Database**: SQL Server, MySQL  
 - **Visualization**: Power BI, Excel  
-- **Machine Learning**: Jupyter Notebook
   
 ## 📚 Projects & Research
 Welcome to my portfolio, where I showcase my work in machine learning, data analytics, and data-driven decision-making.
