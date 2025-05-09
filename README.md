@@ -1,9 +1,9 @@
 ## 👋 Welcome to My GitHub Profile!
 
-I'm Anisha, a passionate **Data Analyst** with research experience in developing **Machine Learning models** in healthcare. I thrive on solving complex problems, uncovering insights from data, and building intelligent systems that drive decisions.
+I'm Anisha, a passionate **Data Analyst** with research experience in developing **Machine Learning (ML) models** in healthcare. I thrive on solving complex problems, uncovering insights from data, and building intelligent systems that drive decisions.
 
 - Conducted **AI research** on **ML-based healthcare diagnostics**, with findings published in **international journals**
-- Strong understanding of **machine learning, deep learning,** and foundational **GenAI** concepts, including **prompt engineering**.
+- Strong understanding of **ML, Deep Learning,** and foundational **GenAI** concepts, including **Prompt Engineering**.
 - Developing dashboards and visualizations using **Power BI**
 - Analyzing and transforming data with **Excel** and **Python**
 - Skilled in querying data with **SQL**   
