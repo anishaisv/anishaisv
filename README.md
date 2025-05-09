@@ -1,0 +1,23 @@
+## 👋 Welcome to My GitHub Profile!
+
+I'm a passionate **Data Analyst** with research experience in developing **Machine Learning models** in healthcare. I thrive on solving complex problems, uncovering insights from data, and building intelligent systems that drive decisions.
+
+- Conducted **AI research** on **decision support systems** for **ML-based healthcare diagnostics**, with findings published in **international journals**
+- Skilled in querying data with **SQL** and building impactful reports  
+- Developing dashboards and visualizations using **Power BI**  
+- Analyzing and transforming data with **Excel** and **Python**
+
+## 🛠️ Tools
+- **Languages**: SQL, Python  
+- **Database**: SQL Server, MySQL  
+- **Visualization**: Power BI, Excel  
+- **Machine Learning**: Jupyter Notebook
+  
+## 📚 Projects & Research
+Welcome to my portfolio, where I showcase my work in machine learning, data analytics, and data-driven decision-making.
+- 🔍 **[Projects](gcdjgfkjsdhfsk):** Demonstrating strong skills in analysis, visualization, and workflow automation projects.
+- 🧠 **[Research Publications](https://scholar.google.co.in/citations?user=bdYYGl0AAAAJ&hl=en):** Contributions to AI-based decision support systems using ML Algorithms in healthcare.
+
+## 👋🏻 Connect with Me
+- Email: ahsinaisaac.i@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/anisha-isaac-13550965/)
