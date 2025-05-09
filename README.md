@@ -3,9 +3,9 @@
 I'm Anisha, a passionate **Data Analyst** with research experience in developing **Machine Learning models** in healthcare. I thrive on solving complex problems, uncovering insights from data, and building intelligent systems that drive decisions.
 
 - Conducted **AI research** on **ML-based healthcare diagnostics**, with findings published in **international journals**
-- Skilled in querying data with **SQL** and building impactful reports  
-- Developing dashboards and visualizations using **Power BI**  
+- Developing dashboards and visualizations using **Power BI**
 - Analyzing and transforming data with **Excel** and **Python**
+- Skilled in querying data with **SQL**   
 
 ## 🛠️ Tools
 - **Languages**: SQL, Python  
