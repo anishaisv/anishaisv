@@ -15,7 +15,7 @@ I'm Anisha, a passionate **Data Analyst** with research experience in developing
   
 ## 📚 Projects & Research
 Welcome to my portfolio, where I showcase my work in machine learning, data analytics, and data-driven decision-making.
-- 🔍 **[Projects](gcdjgfkjsdhfsk):** Demonstrating strong skills in analysis, visualization, and workflow automation projects.
+- 🔍 **[Projects](https://github.com/anishaisv/Portfolio-Guide/blob/main/README.md):** Demonstrating strong skills in analysis, visualization, and workflow automation projects.
 - 🧠 **[Research Publications](https://scholar.google.co.in/citations?user=bdYYGl0AAAAJ&hl=en):** Contributions to AI-based decision support systems using ML Algorithms in healthcare.
 
 ## 👋🏻 Connect with Me
